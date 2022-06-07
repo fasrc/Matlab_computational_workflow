@@ -12,5 +12,5 @@ Used version of Matlab and internal packages are provided at the end of [cluster
 
 ## Run
 
-1. Open [cluster_iris.mlx] file.
+1. Open [cluster_iris.mlx](cluster_iris.mlx) file.
 2. Click on `Run` button. 
